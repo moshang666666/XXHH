@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "bsp_photoresistor.h": "c",
+        "modbus_rtu_link.h": "c",
+        "modbus_slave_protocol.h": "c"
+    }
+}

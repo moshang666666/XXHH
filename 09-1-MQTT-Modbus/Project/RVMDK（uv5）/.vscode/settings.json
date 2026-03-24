@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "bsp_esp8266.h": "c",
+        "array": "cpp",
+        "string": "cpp",
+        "string_view": "cpp",
+        "core_delay.h": "c",
+        "stm32f4xx_usart.h": "c",
+        "modbus.h": "c",
+        "modbusrtu.h": "c",
+        "modbuscrc.h": "c",
+        "modbusconfig.h": "c",
+        "bsp_systick.h": "c",
+        "modbus_rtu_link.h": "c",
+        "application_data_manager.h": "c"
+    }
+}

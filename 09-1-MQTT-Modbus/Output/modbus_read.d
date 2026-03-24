@@ -1,0 +1,9 @@
+..\..\output\modbus_read.o: ..\..\User\modbus_master\modbus_read.c
+..\..\output\modbus_read.o: ..\..\User\modbus_master\modbus_rtu_link.h
+..\..\output\modbus_read.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\output\modbus_read.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+..\..\output\modbus_read.o: ..\..\User\modbus_master\modbus_crc.h
+..\..\output\modbus_read.o: ..\..\User\modbus_master\rs485_driver.h
+..\..\output\modbus_read.o: ..\..\User\modbus_master\application_data_manager.h
+..\..\output\modbus_read.o: ..\..\User\modbus_master\modbus_read.h
+..\..\output\modbus_read.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h

@@ -1,0 +1,115 @@
+2025-11-30 14:28:43.947, WARN, org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext, AbstractApplicationContext.java, main, 635, refresh Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'org.springframework.security.config.annotation.web.configuration.WebSecurityConfiguration': Injection of autowired dependencies failed
+2025-11-30 14:29:39.267, WARN, org.springframework.boot.autoconfigure.security.servlet.UserDetailsServiceAutoConfiguration, UserDetailsServiceAutoConfiguration.java, main, 90, getOrDeducePassword 
+
+Using generated security password: 13646408-1725-4956-a626-6075b8b3464e
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2025-11-30 14:32:43.401, WARN, org.springframework.boot.autoconfigure.security.servlet.UserDetailsServiceAutoConfiguration, UserDetailsServiceAutoConfiguration.java, main, 90, getOrDeducePassword 
+
+Using generated security password: 03e7dcc3-a16b-400a-9fa4-2473105ce092
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2025-11-30 14:33:20.770, WARN, org.springframework.boot.autoconfigure.security.servlet.UserDetailsServiceAutoConfiguration, UserDetailsServiceAutoConfiguration.java, main, 90, getOrDeducePassword 
+
+Using generated security password: c9a8a23a-9a0b-419b-ae12-84b547f2334e
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2025-11-30 15:02:41.503, WARN, org.springframework.boot.autoconfigure.security.servlet.UserDetailsServiceAutoConfiguration, UserDetailsServiceAutoConfiguration.java, main, 90, getOrDeducePassword 
+
+Using generated security password: 9ddb22f0-3894-447e-985f-a50807fcd3fc
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2025-11-30 15:03:02.836, WARN, org.springframework.boot.autoconfigure.security.servlet.UserDetailsServiceAutoConfiguration, UserDetailsServiceAutoConfiguration.java, main, 90, getOrDeducePassword 
+
+Using generated security password: 8f40c460-1b5f-41b3-a166-285b154ab79e
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2025-11-30 15:21:19.030, WARN, org.springframework.boot.autoconfigure.security.servlet.UserDetailsServiceAutoConfiguration, UserDetailsServiceAutoConfiguration.java, main, 90, getOrDeducePassword 
+
+Using generated security password: 34584e8c-6938-4c50-89fc-fc8a19c62ddb
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2025-11-30 15:32:03.169, WARN, org.springframework.boot.autoconfigure.security.servlet.UserDetailsServiceAutoConfiguration, UserDetailsServiceAutoConfiguration.java, main, 90, getOrDeducePassword 
+
+Using generated security password: c7b56530-d99b-457d-a409-f8d6d3ad6086
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2025-11-30 15:34:13.368, WARN, org.springframework.boot.autoconfigure.security.servlet.UserDetailsServiceAutoConfiguration, UserDetailsServiceAutoConfiguration.java, main, 90, getOrDeducePassword 
+
+Using generated security password: c9c2f591-94c6-4541-9c23-bcb868d92c64
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2025-11-30 15:35:35.670, WARN, org.springframework.boot.autoconfigure.security.servlet.UserDetailsServiceAutoConfiguration, UserDetailsServiceAutoConfiguration.java, main, 90, getOrDeducePassword 
+
+Using generated security password: f87404a6-6636-4ad7-8c98-4c0f6c8ea9c3
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2025-11-30 15:47:02.888, WARN, org.springframework.boot.autoconfigure.security.servlet.UserDetailsServiceAutoConfiguration, UserDetailsServiceAutoConfiguration.java, main, 90, getOrDeducePassword 
+
+Using generated security password: bc43df01-50d3-4956-af79-123821c42875
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2025-11-30 15:50:38.717, WARN, org.springframework.boot.autoconfigure.security.servlet.UserDetailsServiceAutoConfiguration, UserDetailsServiceAutoConfiguration.java, main, 90, getOrDeducePassword 
+
+Using generated security password: 923a46af-1799-40f7-99de-e2d1347e7c1a
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2025-11-30 15:52:24.050, WARN, org.springframework.boot.autoconfigure.security.servlet.UserDetailsServiceAutoConfiguration, UserDetailsServiceAutoConfiguration.java, main, 90, getOrDeducePassword 
+
+Using generated security password: df7badcb-bfac-41b8-978b-22d1ae6c3bd2
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2025-11-30 15:55:29.157, WARN, org.springframework.boot.autoconfigure.security.servlet.UserDetailsServiceAutoConfiguration, UserDetailsServiceAutoConfiguration.java, main, 90, getOrDeducePassword 
+
+Using generated security password: 75f61eca-0727-49ce-9600-7c2031965f33
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2025-11-30 15:57:36.411, WARN, org.springframework.boot.autoconfigure.security.servlet.UserDetailsServiceAutoConfiguration, UserDetailsServiceAutoConfiguration.java, main, 90, getOrDeducePassword 
+
+Using generated security password: 27af7bcf-dfd4-4af7-ab77-0a4ccdbbf01d
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2025-11-30 15:58:37.680, WARN, org.springframework.boot.autoconfigure.security.servlet.UserDetailsServiceAutoConfiguration, UserDetailsServiceAutoConfiguration.java, main, 90, getOrDeducePassword 
+
+Using generated security password: 159c50ff-be77-44fd-9109-cb79d55d784c
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2025-11-30 16:01:47.015, WARN, org.springframework.boot.autoconfigure.security.servlet.UserDetailsServiceAutoConfiguration, UserDetailsServiceAutoConfiguration.java, main, 90, getOrDeducePassword 
+
+Using generated security password: 84bfa65b-ead7-4bee-90b3-e283251ecfe6
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2025-11-30 16:03:11.106, WARN, org.springframework.boot.autoconfigure.security.servlet.UserDetailsServiceAutoConfiguration, UserDetailsServiceAutoConfiguration.java, main, 90, getOrDeducePassword 
+
+Using generated security password: 907ce447-5180-4a26-a36a-5ce11d1d9a1f
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2025-11-30 16:05:25.215, WARN, org.springframework.boot.autoconfigure.security.servlet.UserDetailsServiceAutoConfiguration, UserDetailsServiceAutoConfiguration.java, main, 90, getOrDeducePassword 
+
+Using generated security password: 2996720f-d87d-4248-9998-1417c46c4be6
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2025-11-30 16:10:45.298, WARN, org.springframework.boot.autoconfigure.security.servlet.UserDetailsServiceAutoConfiguration, UserDetailsServiceAutoConfiguration.java, main, 90, getOrDeducePassword 
+
+Using generated security password: 03159aaa-611e-4939-b8ae-f7e5607e0896
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
